@@ -1,0 +1,6 @@
+
+source activate tf-2.0
+source deactivate
+conda install pandas
+
+scp preprocess.py yl7276@prince.hpc.nyu.edu:/scratch/yl7276/1012_proj
